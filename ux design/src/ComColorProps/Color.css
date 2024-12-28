@@ -1,0 +1,49 @@
+main{
+  display:inline-block;
+  justify-content: center;
+  align-items: center;
+  }
+ .box{
+  background-color: white;
+  height: 230px;
+  width: 280px;
+  margin: 20px;
+  margin-top: 10px;
+  margin-left: 145px;
+}
+.header{
+  background-color: rgb(84, 209, 12);
+  height: 25px;
+  width: 280px;
+  margin-top: 10px;
+  
+}
+ .circle{
+  width: 50px; 
+  height: 50px; 
+  background-color: #f00; 
+  border-radius: 50%; 
+  transform: translate(50px, 50px);        
+}
+main h3{
+  color: black;
+  margin: 25%;
+  
+}
+main p{
+  color: black;
+  margin: -20%;
+  margin-left: 10px;
+}
+button{
+  color: black;
+  font-size: x-large;
+  width: 180px;
+  height: 46px;
+  position: absolute;
+  bottom: 0;
+  left: 42%;
+  margin: 0;
+  background-color:rgb(240, 41, 137);
+
+}

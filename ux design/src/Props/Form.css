@@ -1,0 +1,13 @@
+.container{
+    background-color: rgba(195, 121, 10, 0.858);
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    background-color: rgba(220, 51, 113, 0.684);
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+}
